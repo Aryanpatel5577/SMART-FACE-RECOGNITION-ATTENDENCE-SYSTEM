@@ -1,3 +1,10 @@
+
+💻🎥🧠 EXPLANATION OF MY CODE 💻🎥🧠 --------->>>>> "https://youtu.be/hrpXQDymPQo?si=o5Rprb3r-fz-DsAc"
+
+
+💻🎥🧠DEMO OF MY PROJECT💻🎥🧠----------->>>>>> "https://youtu.be/vL_QyY-AzZs"
+
+
 # Face Recognition Attendance System
 
 A Python-based attendance system that uses computer vision and machine learning to recognize registered students through a webcam and record their attendance automatically.
